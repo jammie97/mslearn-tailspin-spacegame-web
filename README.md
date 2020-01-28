@@ -1,6 +1,9 @@
 # Azure Pipelines
 [![Build Status](https://jamie-briggs.visualstudio.com/space-game/_apis/build/status/jammie97.mslearn-tailspin-spacegame-web?branchName=master)](https://jamie-briggs.visualstudio.com/space-game/_build/latest?definitionId=1&branchName=master)
 
+# Sonar Cloud
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jammie97_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=jammie97_mslearn-tailspin-spacegame-web)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
